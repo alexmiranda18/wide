@@ -10,14 +10,10 @@ Wide coverage location é uma aplicação HTML e CSS web e mobile construída du
 A aplicação consiste em uma página inicial de uma startup, onde foi trabalhado visando a posição, dimensionamento e responsividade de botões e imagens.
 
 ## Layout mobile
-![Mobile 1](https://github.com/alexmiranda18/shopping-easy/blob/master/assets/Imagem2.jpg?raw=true) 
+![Mobile 1](https://github.com/alexmiranda18/wide/blob/master/assets/Imagem8.jpg?raw=true) 
 
 ## Layout web
 ![Web 1](https://github.com/alexmiranda18/wide/blob/master/assets/Imagem7.jpg?raw=true)
-
-##Layout mobile
-![Mobile](![Web 1](https://github.com/alexmiranda18/wide/blob/master/assets/Imagem8.jpg?raw=true)
-
 
 
 # Tecnologias utilizadas

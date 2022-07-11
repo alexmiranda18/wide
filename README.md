@@ -23,6 +23,8 @@ A aplicação consiste em uma página inicial de uma startup, onde foi trabalhad
 
 ## Implantação em produção
 
+- Figma
+
 - Front end web: Netlify
 
 # Autor
